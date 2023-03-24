@@ -1,0 +1,3 @@
+<div>
+componenente impresora
+</div>
